@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Django**
 
-- 👨‍💻 portfolio [https://soulful-hours-755100.framer.app/](https://ayananth.xyz/)
+- 👨‍💻 portfolio [ayananth.xyz](https://ayananth.xyz/)
 
 - 💬 Ask me about **python**
 
