@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Django**
 
-- 👨‍💻 portfolio [ayananth.xyz](https://ayananth.xyz/)
-
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **tsayananth93@gmail.com**
