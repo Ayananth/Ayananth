@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayananth&label=Profile%20views&color=0e75b6&style=flat" alt="ayananth" /> </p>
 
 - 🔭 I’m currently working on **Django**
-
-- 🌱 I’m currently learning **AWS, ML, React**
-
+  
 - 👯 I’m looking to collaborate on **Django**
 
 - 💬 Ask me about **python**
